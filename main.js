@@ -37228,8 +37228,8 @@
         return (0, zC.jsx)(ea, {
           marginBottom: "4",
           children: (0, zC.jsxs)(Qi, {
-            min: 0.05,
-            max: 25, //max Speed value (edit if you like)
+            min: 0.0,
+            max: 25, //max speed value (edit if you like)
             step: 0.05,
             value: n.speed,
             defaultValue: 1,
@@ -37344,7 +37344,7 @@
                   children: [
                     (0, zC.jsx)(ra, {
                       fontSize: "24",
-                      children: "Myrrr's Universal Speed Hack",
+                      children: "HTML5 Universal Speed Hack PLUS",
                     }),
                     (0, zC.jsx)(la, {
                       marginBottom: "10",
