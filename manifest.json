@@ -2,7 +2,7 @@
    "browser_action": {
       "default_icon": "icon.png",
       "default_popup": "index.html",
-      "default_title": "Myrrr's HTML5 Universal Speed Hack"
+      "default_title": "HTML5 Universal Speed Hack PLUS"
    },
    "content_scripts": [ {
       "all_frames": true,
@@ -10,7 +10,7 @@
       "matches": [ "\u003Call_urls>" ],
       "run_at": "document_start"
    } ],
-   "description": "This is a modded version of the HTML5 Universal Speed Hack made by Myrrr",
+   "description": "This is a modded version of the HTML5 Universal Speed Hack made by TheByteyear",
    "icons": {
       "162": "icon.png"
    },
