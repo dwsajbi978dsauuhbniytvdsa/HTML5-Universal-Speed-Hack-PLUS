@@ -8,5 +8,7 @@ Feel free to edit anything you want!
 Features:
 - Speed up to 25x
 - Easier speed selection on the slider (0.05 steps)
-- Unnecessary code removed
-- Simplified design
+- Unnecessary code removed  + Simplified design
+
+
+-- To change the speed cap search for "max speed" in main.js --
