@@ -13,5 +13,8 @@ Features:
 
 -- To change the speed cap search for "max speed" in main.js --
 
+
+
+
 Support the original creator of the extension if you like :)
 https://www.paypal.com/donate/?hosted_button_id=WBGKBJ73EDAW2
