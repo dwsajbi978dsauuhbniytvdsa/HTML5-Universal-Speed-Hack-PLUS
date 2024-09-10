@@ -33170,7 +33170,7 @@
           },
           defaultProps: {
             variant: "subtle",
-            colorScheme: "blue",
+            colorScheme: "orange",
           },
         }),
         zw = {
@@ -33686,7 +33686,7 @@
           },
           defaultProps: {
             size: "md",
-            colorScheme: "blue",
+            colorScheme: "orange",
           },
         }),
         fx = mw("close-button-size"),
@@ -34044,7 +34044,7 @@
         var t = e.focusBorderColor,
           n = e.errorBorderColor;
         return {
-          focusBorderColor: t || Vb("blue.500", "blue.300")(e),
+          focusBorderColor: t || Vb("orange.500", "orange.300")(e),
           errorBorderColor: n || Vb("red.500", "red.300")(e),
         };
       }
@@ -34798,7 +34798,7 @@
           baseStyle: bS,
           defaultProps: {
             size: "md",
-            colorScheme: "blue",
+            colorScheme: "orange",
           },
         }),
         xS = Qn(rb.keys),
@@ -34874,7 +34874,7 @@
           },
           defaultProps: {
             size: "md",
-            colorScheme: "blue",
+            colorScheme: "orange",
           },
         }),
         _S = Qn(ob.keys),
@@ -35150,7 +35150,7 @@
           },
           defaultProps: {
             size: "md",
-            colorScheme: "blue",
+            colorScheme: "orange",
           },
         }),
         XS = mw("spinner-size"),
@@ -35291,7 +35291,7 @@
           },
           defaultProps: {
             size: "md",
-            colorScheme: "blue",
+            colorScheme: "orange",
           },
         }),
         dE = Qn(ub.keys),
@@ -35671,7 +35671,7 @@
           defaultProps: {
             size: "md",
             variant: "line",
-            colorScheme: "blue",
+            colorScheme: "orange",
           },
         }),
         jE = Qn(cb.keys),
@@ -36436,7 +36436,7 @@
                 })
               );
             },
-            colorScheme: "blue",
+            colorScheme: "orange",
           },
           warning: {
             icon: rC,
@@ -36466,7 +36466,7 @@
           },
           loading: {
             icon: eC,
-            colorScheme: "blue",
+            colorScheme: "orange",
           },
         };
       var dC = Jr(function (t, n) {
@@ -37246,6 +37246,31 @@
             },
             children: [
               (0, zC.jsx)(el, {
+                value: 0,
+                mt: "1",
+                children: "0x",
+              }),
+              (0, zC.jsx)(el, {
+                value: 5,
+                mt: "1",
+                children: "5x",
+              }),
+              (0, zC.jsx)(el, {
+                value: 10,
+                mt: "1",
+                children: "10x",
+              }),
+              (0, zC.jsx)(el, {
+                value: 15,
+                mt: "1",
+                children: "15x",
+              }),
+              (0, zC.jsx)(el, {
+                value: 20,
+                mt: "1",
+                children: "20x",
+              }),
+              (0, zC.jsx)(el, {
                 value: 25,
                 mt: "1",
                 children: "25x",
@@ -37265,7 +37290,7 @@
               }),
               (0, zC.jsx)(Sg, {
                 hasArrow: !0,
-                bg: "blue.500",
+                bg: "orange.500",
                 color: "white",
                 placement: "top",
                 isOpen: a,
