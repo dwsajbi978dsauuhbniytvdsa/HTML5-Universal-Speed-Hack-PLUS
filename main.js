@@ -37230,7 +37230,7 @@
           children: (0, zC.jsxs)(Qi, {
             min: 0.0,
             max: 2, //max speed value (edit if you like)
-            step: 0.125,
+            step: 0.0625,
             value: n.speed,
             defaultValue: 1,
             onChange: function (e) {
